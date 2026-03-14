@@ -1,6 +1,7 @@
 # personal-website
 
-All the code for my personal website: caydenjohnson.com
+All the code for my personal website: caydenjohnson.com.
+
 The site functions as a place where I can host all my social media links including:
 
 * Github
